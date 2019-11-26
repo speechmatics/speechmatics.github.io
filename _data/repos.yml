@@ -1,0 +1,3 @@
+- name: speechmatics-python
+  language: python
+  desciption: Python client for Speechmatics
