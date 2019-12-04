@@ -28,6 +28,9 @@ title: Open Source at Speechmatics
           </p>
           <p class="subtitle">{{ repo.description }}</p>
           <a class="button" href="https://github.com/speechmatics/{{ repo.name }}">GitHub</a>
+          {% if repo.pages %}
+          <a class="button" href="https://speechmatics.github.io/{{ repo.name }}">Documentation</a>
+          {% endif %}
         </article>
       </div>
 {% endfor %}

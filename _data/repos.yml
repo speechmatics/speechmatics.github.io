@@ -1,6 +1,7 @@
 - name: speechmatics-python
   language: python
   description: Python client for Speechmatics
+  pages: true
 
 - name: realtimedemo
   language: html5
