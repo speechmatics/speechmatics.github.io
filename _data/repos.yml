@@ -6,19 +6,3 @@
 - name: realtimedemo
   language: html5
   description: A demo application showcasing our real-time transcription service
-
-- name: speechmatics_csharp
-  language: csharp
-  description: Example usage of Speechmatics in C#
-
-- name: speechmatics_node
-  language: nodejs
-  description: Example usage of Speechmatics in Node.js
-
-- name: speechmatics_ruby
-  language: ruby
-  description: Example usage of Speechmatics in Ruby
-
-- name: speechmatics_python
-  language: python
-  description: Example usage of Speechmatics in Python
